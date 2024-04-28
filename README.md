@@ -1,4 +1,5 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![image](https://github.com/Candy-O-Bosibori/Candy-O-Bosibori/assets/157385135/769bad50-6f54-49a9-9213-88941a4ca8a1)
+
 <h1 align="center">Hi 👋, I'm Candy Ongaro</h1>
 <h3 align="center">As a software developer, I use code to build a world that reflects real-life experiences, one step at a time. I bring a liberal mindset to programming, focusing on creativity and innovation to create solutions that connect with people in meaningful ways.</h3>
 
